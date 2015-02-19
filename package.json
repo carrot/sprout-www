@@ -1,9 +1,9 @@
 {
-  "name": "axis-www",
-  "description": "Documentation for axis",
+  "name": "sprout-www",
+  "description": "Documentation site for sprout",
   "repository": {
     "type": "git",
-    "url": "https://github.com/jenius/axis-www"
+    "url": "https://github.com/carrot/sprout-www"
   },
   "dependencies": {
     "autoprefixer-stylus": "0.3.x",
